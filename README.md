@@ -1,5 +1,7 @@
 # MAIS202 Project: Skin Disease Classification Web App
 
+This project was realized as part of a group collaboration.
+
 ## Overview
 
 This project aims to develop a web application that can classify if a mole is skin cancer or not based on an uploaded image and metadata, such as the gender, the age, and other relevant details. The application leverages deep learning to provide accurate, user-friendly diagnostics, potentially benefiting telemedicine and dermatology diagnostics by giving a first diagnosis to the patient. The webapp will give a percentage of accuracy and remember the person to consult a doctor.
